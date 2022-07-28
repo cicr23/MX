@@ -13,3 +13,5 @@ https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
 https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE II
 https://linear-352.frequency.stream/352/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA 
+https://linear-405.frequency.stream/405/hls/master/playlist_1920x1080.m3u8
