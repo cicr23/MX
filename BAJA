@@ -11,3 +11,5 @@ https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
 https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Canal_5_M%C3%A9xico_2016.png/revision/latest?cb=20200715225844&path-prefix=es" group-title="TV ABIERTA", CANAL 5 II
 https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="CANAL9" tvg-name="CANAL 9" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" group-title="TV ABIERTA", NU9VE II
+https://linear-352.frequency.stream/352/hls/master/playlist_1920x1080.m3u8
