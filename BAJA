@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO", TLNOVELAS
 https://linear-421.frequency.stream/421/hls/master/playlist_1920x1080.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="LATINO",Univision | US miami
@@ -15,3 +16,5 @@ https://linear-351.frequency.stream/351/hls/master/playlist_1920x1080.m3u8
 https://linear-352.frequency.stream/352/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA 
 https://linear-405.frequency.stream/405/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" group-title="ENTRETENIMIENTO", UNICABLE  
+https://linear-423.frequency.stream/423/hls/master/playlist_1920x1080.m3u8
