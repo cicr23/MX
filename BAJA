@@ -503,3 +503,120 @@ https://linear-418.frequency.stream/418/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Mexico", TELEHIT MUSICA PLUS 
 https://linear-419.frequency.stream/419/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Unimas
+https://v-la.mybtv.net/live/168.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Univision LA
+https://v-la.mybtv.net/live/178.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Univision Arizona
+https://v-px.mybtv.net/live/28.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Univision NY
+https://v-ny.mybtv.net/live/643.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Telemundo
+https://v-la.mybtv.net/live/267.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Unimas
+https://v-la.mybtv.net/live/299.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Canal 5
+https://v-sd.mybtv.net/live/486.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Azteca 7
+https://v-sd.mybtv.net/live/502.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin NHK
+https://v-pi.mybtv.net/live/360.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Telemudo 2
+https://v-ca.mybtv.net/live/140.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Univision 2
+https://kafra27.000webhostapp.com/live/62.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Caracol
+https://kafra27.000webhostapp.com/live/59.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Unimas 2
+https://kafra27.000webhostapp.com/live/64.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin Latina PE
+https://kafra27.000webhostapp.com/live/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Latin DTV Sports
+https://kafra27.000webhostapp.com/live/20.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Galavision
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Network
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Telemundo Internacional
+http://go.iptvhn.net:25461/live/Smart/Smart123/6640.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision Network
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Univision HD
+http://go.iptvhn.net:25461/live/Smart/Smart123/6647.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", UniMas Network
+http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/225571.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NBC Universo 
+http://globalentertainmentec.xyz:8000/live/Elias2022/Elias2022/8884.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", Estrella News
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Unimas 
+https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Azteca America
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Estrella TV
+https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY novelisima
+https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Telemundo 47
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY TeleXitos
+https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Antenna TV
+https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Canal de la Fe
+https://v-ny.theus6tv.tk/hls/48.3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", NY Univision 41
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA NBC Phoenix
+https://v-px.mybtv.net/live/55.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA NBC San Diego
+https://v-sd.mybtv.net/live/512.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA NBC
+https://v-la.mybtv.net/live/82.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Unimas
+https://v-la.mybtv.net/live/299.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Unimas Phoenix
+https://v-px.mybtv.net/live/56.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Unimas San Fco.
+https://v-ca.mybtv.net/live/147.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Univision 
+https://v-la.mybtv.net/live/178.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Univision San Fco.
+https://v-ca.mybtv.net/live/148.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Univision NY
+https://v-ny.mybtv.net/live/643.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Univision Phoenix
+https://v-px.mybtv.net/live/28.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Telemundo 
+https://v-la.mybtv.net/live/267.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Telemundo Phoenix
+https://v-px.mybtv.net/live/39.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Telemundo San Fco.
+https://v-ca.mybtv.net/live/140.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Azteca 7
+https://v-sd.mybtv.net/live/502.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Latinos USA", LA Azteca 1
+https://v-sd.mybtv.net/live/760.m3u8
